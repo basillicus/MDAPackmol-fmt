@@ -11,6 +11,12 @@ MDAPackmol
 
 -----
 
+## Why this fork?
+
+MDAPackmol-fmt is a fork of the original MDAPackmol code adapted to the FillMyTubes code. 
+
+## MDAPackmol
+
 An MDAnalysis_ wrapper around Packmol_
 
 * Allows combining MDAnalysis and Packmol
